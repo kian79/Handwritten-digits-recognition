@@ -1,4 +1,4 @@
-# MNIST_NN
+# Handwritten Digits Recognition
 MNIST problem using neural network and stochastic gradient descent algorithm from scratch.
 
 In this project I solved MNIST problem using neural networks and stochastic gradient descent algorithm by python from scratch. 
